@@ -1,6 +1,6 @@
 # Dark Web OSINT Methodology — Enterprise Security Field Notes
 
-> **Author:** Dheeraj Kumar Jayaswal — Senior Penetration Tester | 6+ Years Enterprise AppSec
+> **Author:** Dheeraj Kumar Jayaswal — Senior Penetration Tester | 5+ Years Enterprise AppSec
 >
 > **Category:** Dark Web Intelligence — Safe Reconnaissance Methodology
 >
