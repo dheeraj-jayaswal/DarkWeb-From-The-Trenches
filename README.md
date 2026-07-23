@@ -1,5 +1,3 @@
-
-
 # 🌐 Dark Web From The Trenches
 
 > **Author:** Dheeraj Kumar Jayaswal — Senior Penetration Tester | 5+ Years Enterprise AppSec
@@ -75,18 +73,18 @@ Scenario 4 — Brand Protection / Executive Monitoring:
 
 ## 📚 Series Contents
 
-### 🔷 Threat Intelligence & OSINT
-
-| # | Topic | Description |
-|---|---|---|
-| 01 | [Credential Leak Monitoring](./01_credential_leak_monitoring.md) | HIBP API, breach databases, dark web paste monitoring |
-| 02 | [Dark Web OSINT Methodology](./02_dark_web_osint_methodology.md) | Safe access setup, search techniques, intelligence extraction |
-| 03 | [Ransomware Intelligence](./03_ransomware_intelligence.md) | Tracking threat actor blogs, victim lists, TTPs |
-| 04 | [Brand & Domain Monitoring](./04_brand_domain_monitoring.md) | Typosquatting, lookalike domains, corporate data on forums |
-| 05 | [Leaked Credentials in Pentest](./05_leaked_credentials_pentest.md) | Using OSINT findings in authorised assessments |
-| 06 | [Threat Actor Profiling](./06_threat_actor_profiling.md) | APT group tracking, TTPs, MITRE ATT&CK mapping |
-| 07 | [Dark Web Monitoring Tools](./07_dark_web_monitoring_tools.md) | Tor, Ahmia, OnionSearch, SpiderFoot, Maltego |
-| 08 | [Incident Response TI](./08_incident_response_threat_intel.md) | Using dark web intel during active incident response |
+| Topic | File |
+|---|---|
+| Credential Leak Monitoring | [Credential_Leak_Monitoring.md](Credential_Leak_Monitoring.md) |
+| Dark Web OSINT Methodology | [Dark_Web_OSINT_Methodology.md](Dark_Web_OSINT_Methodology.md) |
+| Ransomware Intelligence | [Ransomware_Intelligence.md](Ransomware_Intelligence.md) |
+| Threat Actor Profiling | [Threat_Actor_Profiling.md](Threat_Actor_Profiling.md) |
+| Brand Protection (Enterprise) | [Brand_Protection_Enterprise.md](Brand_Protection_Enterprise.md) |
+| Dark Web Tools Reference | [Dark_Web_Tools_Reference.md](Dark_Web_Tools_Reference.md) |
+| MITRE ATT&CK Field Usage | [MITRE_ATT_CK_Field_Usage.md](MITRE_ATT_CK_Field_Usage.md) |
+| OSINT to Threat Intel Pipeline | [OSINT_To_ThreatIntel_Pipeline.md](OSINT_To_ThreatIntel_Pipeline.md) |
+| Pre-Engagement TI Report (Template) | [Pre_Engagement_TI_Report.md](Pre_Engagement_TI_Report.md) |
+| TI Fundamentals (Enterprise) | [TI_Fundamentals_Enterprise.md](TI_Fundamentals_Enterprise.md) |
 
 ---
 
@@ -123,7 +121,7 @@ Scenario 4 — Brand Protection / Executive Monitoring:
 
 ### Phase 1 — Surface Web Pre-Recon (Always First)
 
-```bash
+```
 # Before touching Tor — exhaust surface web sources
 
 # HIBP — have credentials been exposed?
@@ -171,7 +169,7 @@ VM setup for investigation:
 
 ### Phase 3 — Dark Web Search Techniques
 
-```bash
+```
 # Ahmia.fi — surface-accessible dark web search engine
 # https://ahmia.fi/search/?q=company.com+credentials
 
@@ -280,7 +278,7 @@ Report finding:
 
 ## 📋 Pre-Engagement TI Report Template
 
-```markdown
+```
 ## Threat Intelligence Report — Pre-Engagement OSINT
 **Target:** Company Name  
 **Date:** [DD-MM-YYYY]  
@@ -351,26 +349,13 @@ The professional standard:
 
 ## 🧭 Key Takeaways for Enterprise Security Teams
 
-**1. Pre-engagement dark web OSINT is the highest-ROI threat intelligence activity.**
-An hour checking HIBP, paste sites, and dark web forums before testing starts tells you which employees already have compromised credentials. A finding like "247 employee credentials are available for free online" changes the client's risk posture before a single vulnerability is exploited.
+**1. Pre-engagement dark web OSINT is the highest-ROI threat intelligence activity.** An hour checking HIBP, paste sites, and dark web forums before testing starts tells you which employees already have compromised credentials. A finding like "247 employee credentials are available for free online" changes the client's risk posture before a single vulnerability is exploited.
 
-**2. Breach data on the dark web often predates detection by months or years.**
-Organisations frequently discover breaches from dark web intelligence long before their own systems generate alerts. A 2022 breach database appearing on forums in 2024 is not unusual. Continuous monitoring is essential — point-in-time checks are insufficient.
+**2. Breach data on the dark web often predates detection by months or years.** Organisations frequently discover breaches from dark web intelligence long before their own systems generate alerts. A 2022 breach database appearing on forums in 2024 is not unusual. Continuous monitoring is essential — point-in-time checks are insufficient.
 
-**3. The credential:access chain is the most impactful finding chain in enterprise testing.**
-Leaked credentials → valid authentication → confirmed access → escalate privileges → full compromise. No injection vulnerability required. The hardest part (credential theft) was done for you by a previous breach. Demonstrating this chain with evidence is the most compelling executive-level finding in any assessment.
+**3. The credential:access chain is the most impactful finding chain in enterprise testing.** Leaked credentials → valid authentication → confirmed access → escalate privileges → full compromise. No injection vulnerability required. The hardest part (credential theft) was done for you by a previous breach. Demonstrating this chain with evidence is the most compelling executive-level finding in any assessment.
 
-**4. Documentation and legal compliance are non-negotiable.**
-Dark web investigation generates sensitive evidence. Document every step, retain only what is needed for reporting, delete the rest. Written authorisation protects both you and the client. Methodology documentation protects you legally. This is professional discipline, not optional.
-
----
-
-## 📄 License
-
-This content is licensed under **[CC BY 4.0](LICENSE.md)**. You're welcome to
-reuse or adapt any of these notes — just give clear attribution to
-**Dheeraj Kumar Jayaswal** with a link back to this repository. See
-[LICENSE.md](LICENSE.md) for the full terms.
+**4. Documentation and legal compliance are non-negotiable.** Dark web investigation generates sensitive evidence. Document every step, retain only what is needed for reporting, delete the rest. Written authorisation protects both you and the client. Methodology documentation protects you legally. This is professional discipline, not optional.
 
 ---
 
@@ -387,13 +372,20 @@ reuse or adapt any of these notes — just give clear attribution to
 
 ---
 
+## 📄 License
+
+This content is licensed under **[CC BY 4.0](LICENSE.md)**. You're welcome to
+reuse or adapt any of these notes — just give clear attribution to
+**Dheeraj Kumar Jayaswal** with a link back to this repository. See
+[LICENSE.md](LICENSE.md) for the full terms.
+
+---
+
 <div align="center">
 
 *Dark Web From The Trenches — Real threat intelligence field notes from enterprise security engagements.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Kumar%20Jayaswal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajkumarjayaswal)
-[![AppSec Repo](https://img.shields.io/badge/Also%20See-AppSec%20From%20The%20Trenches-9B59B6?style=flat-square)](https://github.com/dheeraj-pentest/AppSec-From-The-Trenches)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dheeraj-pentest&color=9B59B6&style=flat-square&label=Profile+Views)
+[![AppSec Repo](https://img.shields.io/badge/Also%20See-AppSec%20From%20The%20Trenches-9B59B6?style=flat-square)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
 
 </div>
