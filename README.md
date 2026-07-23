@@ -377,6 +377,15 @@ Dark web investigation generates sensitive evidence. Document every step, retain
 
 ---
 
+## 📄 License
+
+This content is licensed under **[CC BY 4.0](LICENSE.md)**. You're welcome to
+reuse or adapt any of these notes — just give clear attribution to
+**Dheeraj Kumar Jayaswal** with a link back to this repository. See
+[LICENSE.md](LICENSE.md) for the full terms.
+
+---
+
 ## 🔗 References
 
 - [Have I Been Pwned](https://haveibeenpwned.com)
