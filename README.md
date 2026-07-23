@@ -1,16 +1,4 @@
-<div align="center">
-  <img src="https://media.tenor.com/0fJmvyzmDqQAAAAC/hacking-matrix.gif" width="600" height="220" alt="dark web investigation"/>
-</div>
 
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9B59B6&center=true&vCenter=true&width=900&lines=Dark+Web+From+The+Trenches;Enterprise+Threat+Intelligence+%26+OSINT;Credential+Leak+Monitoring+%7C+Brand+Protection;Real+Field+Notes+from+5%2B+Years+of+AppSec)](https://github.com/dheeraj-pentest)
-
-</div>
-
----
 
 # 🌐 Dark Web From The Trenches
 
