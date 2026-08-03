@@ -4,7 +4,7 @@
 >
 > **Category:** Threat Intelligence — Foundations & Enterprise Application
 >
-> **Context:** Threat intelligence is the practice of collecting, analysing, and applying information about threats to make better security decisions. In enterprise engagements at Infosys, I integrate threat intelligence into every phase — from pre-engagement OSINT that surfaces leaked credentials before testing begins, to post-engagement reporting that contextualises findings within the threat landscape relevant to the client's sector.
+> **Context:** Threat intelligence is the practice of collecting, analysing, and applying information about threats to make better security decisions. In enterprise engagements, I integrate threat intelligence into every phase — from pre-engagement OSINT that surfaces leaked credentials before testing begins, to post-engagement reporting that contextualises findings within the threat landscape relevant to the client's sector.
 
 ---
 
