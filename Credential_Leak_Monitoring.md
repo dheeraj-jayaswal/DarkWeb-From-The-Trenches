@@ -406,7 +406,7 @@ An IT admin's password in a breach database is Critical. A junior analyst's pass
 ---
 <div align="center">
 
-*Part of [Dark Web From The Trenches](../README.md) — Real notes from 6+ years of enterprise security.*
+*Part of [Dark Web From The Trenches](../README.md) — Real notes from 5+ years of enterprise security.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Kumar%20Jayaswal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajkumarjayaswal)
 
