@@ -1,6 +1,6 @@
 # 🌐 Dark Web From The Trenches
 
-> **Author:** Dheeraj Kumar Jayaswal — Senior Penetration Tester | 5+ Years Enterprise AppSec
+> **Author:** Dheeraj Kumar Jayaswal — Senior Penetration Tester | 6+ Years Enterprise AppSec
 >
 > **Role:** Technology Lead – Offensive Security | Infosys Limited, Pune
 >
