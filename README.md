@@ -4,7 +4,7 @@
 ### Threat Intelligence & Dark Web OSINT Methodology
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Kumar%20Jayaswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajkumarjayaswal)
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dheeraj-jayaswal)
+[![Location](https://img.shields.io/badge/Location-Indore%2C%20India%20%28Remote%29-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dheeraj-jayaswal)
 
 </div>
 
@@ -416,9 +416,9 @@ I approach every engagement in three phases:
 ## 👤 About Me
 
 - **Name** — Dheeraj Kumar Jayaswal
-- **Role** — Technology Lead – Offensive Security, Infosys Limited
+- **Role** — Principal Penetration Tester, VikingCloud (previously Technology Lead – Offensive Security, Infosys Limited)
 - **Focus** — Web Application & API Penetration Testing
-- **Experience** — 15+ years in IT · 6+ years in Offensive Security
+- **Experience** — 16+ years in IT · 9+ years in Offensive Security
 - **Edge** — Former full-stack developer (ASP.NET / SQL Server) — I think like a developer, attack like a hacker
 - **Domains** — Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
 
