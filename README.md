@@ -29,6 +29,7 @@ Dark web intelligence is a standard component of enterprise security assessments
 | [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | Deep-dive API security series — OWASP API Top 10 coverage, BOLA, JWT attacks, GraphQL testing, full methodology |
 | [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
 | [.pcap-Arsenal](https://github.com/dheeraj-jayaswal/.pcap-Arsenal) | Packet captures organized by protocol, for Web/API/Network-layer analysis and learning |
+| [Pentest-Engagement-Playbook](https://github.com/dheeraj-jayaswal/Pentest-Engagement-Playbook) | Consultant-grade scoping, ROE, severity rationale, and executive reporting templates — the client-facing operational playbook behind an engagement |
 
 ---
 
